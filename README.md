@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Nguyen Huu Nhan
+# Pham Hoang Minh
 
-**`Fullstack Developer`**
+**`Quality Control`**
 
 
 ### Frontend
